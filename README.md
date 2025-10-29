@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Timur Pshinshev!
+# 👋 Hi, my name is Timur!
 
 **AI/ML Engineer & Full-Stack Developer**  
 Developing intelligent systems and scalable web applications with a focus on computer vision, NLP, and algorithm optimization. Love solving complex problems in a team and turning abstract ideas into working products.
@@ -41,29 +41,29 @@ Development of a program for generating low-poly 3D models from text/image for g
 - Implemented FastAPI server for interface-model interaction  
 - Researched TRELLIS architecture and implemented inference pipeline  
 - Developed frontend for user interaction  
-[Demo](link) | [GitHub](link) | [Presentation](link)
+[Demo](https://itmo-prod-mat-001.vercel.app/) | [GitHub](https://github.com/TimurPshITMO/GameDevAI) | [Presentation](https://drive.google.com/file/d/1ids4v2MYFobUz09BhjGU0uLFkP8rR643/view?usp=sharing)
 
-### 🤖 VNEEDREYD | July 2025
+### 🤖 VNEDREYD | July 2025
 Telegram bot for automatic spam filtering in channels  
 - Organized work using Scrum methodology, distributed tasks within the team  
 - Improved architecture to comply with SOLID principles  
 - Developed and maintained AI-based microservices (AI vs human classification, spam classification using Naive Bayes model, swearing detection using SwearingCheck)  
 - Updated models within microservices, retraining and adding new ones  
-[GitHub](link) | [Presentation](link)
+[GitHub](https://github.com/codejerks/gornichnaya) | [Presentation](https://drive.google.com/file/d/1ixpVV3JuGwbsfLC9YuMPY6mc5yDgNBR0/view?usp=sharing)
 
 ### 🚀 Yandex x MIPT Summer Camp | April 2025
 Research on applying hypergraph features to improve machine learning model predictions  
 - Led the team, distributed roles and tasks  
 - Optimized xgi library by parallelizing processes for faster hypergraph feature calculation  
 - Tested hypothesis on a ready dataset  
-[Presentation](link)
+[Presentation](https://docs.google.com/presentation/d/1VeDI4MYU3lB9yDJKq-1DJeuH311atbd0tZhVaF75LXo/edit?usp=sharing)
 
 ### 📊 AI Learning Lab 2025 | February 2025
 Training ML model for predicting ad campaign reach  
 - Implemented FastAPI server  
 - Prepared data  
 - Trained model  
-[GitHub](link) | [Presentation](link)
+[GitHub](https://github.com/TimurPshITMO/VK_LL_2025) | [Presentation](https://drive.google.com/file/d/1-5LX0xfD1PqoVLyT9_zt0m-Y773wwwgd/view?usp=sharing)
 
 ### 🎨 VK FreshCode | October-December 2024
 Creation of an entertainment mini-app  
@@ -71,26 +71,29 @@ Creation of an entertainment mini-app
 - Improved server-side by implementing synchronization methods for parallel request processing  
 - Developed visual design and assets  
 - Frontend development  
-[App](link) | [Presentation](link)
+[App](https://vk.com/app52425434) | [Presentation](https://drive.google.com/file/d/1B5DQ33hWGAI4zovzPgO-Emo7nhIRh3D4/view?usp=sharing)
 
 ### 🤖 Yandex x Ural Federal University Summer Camp (2nd Place) | October 2024
 Development of a robot navigating a maze and performing tasks (picking up cubes, pressing buttons, etc.)  
-- Implemented maze navigation algorithm based on UV/IR sensor data  
+- Implemented maze navigation algorithm based on ultrasonic/infrared sensor data  
 - Developed robot alignment algorithm along straight lines using computer vision methods  
-[GitHub](link) | [Presentation](link)
+[GitHub](https://github.com/Thegarton/StudCamp_2024) | [Presentation](https://docs.google.com/presentation/d/1Mgc_4xd_7HssNf75ZmJBBhps6Cr0HzF2/edit?usp=sharing&ouid=107205541278082350411&rtpof=true&sd=true)
 
 ### 📈 AI Learning Lab 2024 | May 2024
 Creation of a program for automated priority determination of ads on images  
 - Implemented FastAPI server  
 - Prepared dataset  
-[GitHub](link) | [Presentation](link)
+[GitHub](https://github.com/D2J3D/Nexign_ITMO) | [Presentation](https://docs.google.com/presentation/d/1VMg16ZAK6VkmTFs9NlRH-jW9gzr_XYbD/edit?usp=sharing&ouid=107205541278082350411&rtpof=true&sd=true)
 
 ---
 
 ## 💬 Soft Skills
-- Communicative | Stress-resistant  
-- Teamwork | Quick adaptation  
-- Public speaking | Problem-solving
+- 🔍 Strategic Problem Solving & Analytical Thinking  
+- 👥 Cross-functional Team Leadership & Collaboration  
+- 📢 Technical Communication for Diverse Stakeholders  
+- 🚀 Rapid Learning & Adaptation to Emerging Technologies  
+- 📊 Data-Driven Decision Making & Performance Optimization  
+- 💡 Creative Innovation & Solution Design
 
 ---
 
