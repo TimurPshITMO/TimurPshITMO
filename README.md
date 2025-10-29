@@ -1,11 +1,11 @@
-# 👋 Привет, я Тимур Пшиншев!
+# 👋 Hi, I'm Timur Pshinshev!
 
 **AI/ML Engineer & Full-Stack Developer**  
-Разрабатываю интеллектуальные системы и масштабируемые веб-приложения с фокусом на компьютерном зрении, NLP и оптимизации алгоритмов. Обожаю решать сложные задачи в команде и превращать абстрактные идеи в работающие продукты.
+Developing intelligent systems and scalable web applications with a focus on computer vision, NLP, and algorithm optimization. Love solving complex problems in a team and turning abstract ideas into working products.
 
 ---
 
-## 🛠️ Технические навыки
+## 🛠️ Technical Skills
 
 <div align="center">
   
@@ -34,74 +34,76 @@
 
 ---
 
-## 🌟 Проекты
+## 🌟 Projects
 
-### 🎮 GameDevAI (II место) | Август 2025
-Разработка программы для генерации низкополигональных 3D-моделей из текста/изображения для игровых проектов  
-- Реализовал FastAPI сервер для взаимодействия интерфейса и модели  
-- Исследовал архитектуру TRELLIS и внедрил инференс-пайплайн  
-- Разработал фронтенд для пользовательского взаимодействия  
-[Демо](link) | [GitHub](link) | [Презентация](link)
+### 🎮 GameDevAI (2nd Place) | August 2025
+Development of a program for generating low-poly 3D models from text/image for gaming projects  
+- Implemented FastAPI server for interface-model interaction  
+- Researched TRELLIS architecture and implemented inference pipeline  
+- Developed frontend for user interaction  
+[Demo](link) | [GitHub](link) | [Presentation](link)
 
-### 🤖 ВНЕДРЕЙД | Июль 2025
-Telegram-бот для автоматической очистки спама в каналах  
-- Организовал работу по Scrum и распределил задачи в команде  
-- Улучшил архитектуру под принципы SOLID  
-- Создал микросервисы на ИИ для классификации спама, мата и AI/human контента  
-[GitHub](link) | [Презентация](link)
+### 🤖 VNEEDREYD | July 2025
+Telegram bot for automatic spam filtering in channels  
+- Organized work using Scrum methodology, distributed tasks within the team  
+- Improved architecture to comply with SOLID principles  
+- Developed and maintained AI-based microservices (AI vs human classification, spam classification using Naive Bayes model, swearing detection using SwearingCheck)  
+- Updated models within microservices, retraining and adding new ones  
+[GitHub](link) | [Presentation](link)
 
-### 🚀 Студкемп Яндекс x МФТИ | Апрель 2025
-Исследование гиперграфовых признаков для улучшения ML-моделей  
-- Руководил командой и оптимизировал библиотеку xgi через параллелизацию  
-- Проверил гипотезу на реальных данных  
-[Презентация](link)
+### 🚀 Yandex x MIPT Summer Camp | April 2025
+Research on applying hypergraph features to improve machine learning model predictions  
+- Led the team, distributed roles and tasks  
+- Optimized xgi library by parallelizing processes for faster hypergraph feature calculation  
+- Tested hypothesis on a ready dataset  
+[Presentation](link)
 
-### 📊 AI Learning Lab 2025 | Февраль 2025
-Прогнозирование охватов рекламных объявлений  
-- Построил FastAPI сервер для деплоя модели  
-- Подготовил и обработал датасет  
-[GitHub](link) | [Презентация](link)
+### 📊 AI Learning Lab 2025 | February 2025
+Training ML model for predicting ad campaign reach  
+- Implemented FastAPI server  
+- Prepared data  
+- Trained model  
+[GitHub](link) | [Presentation](link)
 
-### 🎨 VK FreshCode | Окт-Дек 2024
-Развлекательное мини-приложение  
-- Руководил разработкой и внедрил синхронизацию для параллельных запросов  
-- Спроектировал UI и реализовал фронтенд  
-[Приложение](link) | [Презентация](link)
+### 🎨 VK FreshCode | October-December 2024
+Creation of an entertainment mini-app  
+- Led development process  
+- Improved server-side by implementing synchronization methods for parallel request processing  
+- Developed visual design and assets  
+- Frontend development  
+[App](link) | [Presentation](link)
 
-### 🤖 Студкемп Яндекс x УрФУ (II место) | Октябрь 2024
-Робот для навигации в лабиринте и выполнения задач  
-- Реализовал алгоритмы ориентации по датчикам УФ/ИК  
-- Разработал компьютерное зрение для выравнивания по прямым линиям  
-[GitHub](link) | [Презентация](link)
+### 🤖 Yandex x Ural Federal University Summer Camp (2nd Place) | October 2024
+Development of a robot navigating a maze and performing tasks (picking up cubes, pressing buttons, etc.)  
+- Implemented maze navigation algorithm based on UV/IR sensor data  
+- Developed robot alignment algorithm along straight lines using computer vision methods  
+[GitHub](link) | [Presentation](link)
 
-### 📈 AI Learning Lab 2024 | Май 2024
-Определение приоритета рекламных объявлений на изображениях  
-- Построил FastAPI сервер и подготовил датасет  
-[GitHub](link) | [Презентация](link)
+### 📈 AI Learning Lab 2024 | May 2024
+Creation of a program for automated priority determination of ads on images  
+- Implemented FastAPI server  
+- Prepared dataset  
+[GitHub](link) | [Presentation](link)
 
 ---
 
-## 💬 Мягкие навыки
-- Коммуникабельность | Стрессоустойчивость  
-- Командная работа | Быстрая адаптация  
-- Публичные выступления | Решение сложных задач
+## 💬 Soft Skills
+- Communicative | Stress-resistant  
+- Teamwork | Quick adaptation  
+- Public speaking | Problem-solving
 
 ---
 
-## 📚 Образование
+## 📚 Education
 **ITMO University**  
-Факультет систем управления и робототехники  
-Робототехника и искусственный интеллект  
-Бакалавриат, 4 курс (окончание: 2026)
+Faculty of Control Systems and Robotics  
+Robotics and Artificial Intelligence  
+Bachelor's degree, 4th year (graduation: 2026)
 
 ---
 
-## 📬 Связаться со мной
+## 📬 Contact Me
 - ✉️ [timurpshinshev@gmail.com](mailto:timurpshinshev@gmail.com)
 - 💻 [GitHub](https://github.com/TimurPshITMO)
 - 📱 [Telegram](https://t.me/annoying_rusk)
 - ☎️ +7 (929) 885-52-90
-
----
-
-> "The best way to predict the future is to invent it." — Alan Kay
