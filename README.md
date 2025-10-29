@@ -3,8 +3,6 @@
 **AI/ML Engineer & Full-Stack Developer**  
 Developing intelligent systems and scalable web applications with a focus on computer vision, NLP, and algorithm optimization. Love solving complex problems in a team and turning abstract ideas into working products.
 
----
-
 ## 🛠️ Technical Skills
 
 <div align="center">
@@ -31,8 +29,6 @@ Developing intelligent systems and scalable web applications with a focus on com
   ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
 
 </div>
-
----
 
 ## 🌟 Projects
 
@@ -85,8 +81,6 @@ Creation of a program for automated priority determination of ads on images
 - Prepared dataset  
 [GitHub](https://github.com/D2J3D/Nexign_ITMO) | [Presentation](https://docs.google.com/presentation/d/1VMg16ZAK6VkmTFs9NlRH-jW9gzr_XYbD/edit?usp=sharing&ouid=107205541278082350411&rtpof=true&sd=true)
 
----
-
 ## 💬 Soft Skills
 - 🔍 Strategic Problem Solving & Analytical Thinking  
 - 👥 Cross-functional Team Leadership & Collaboration  
@@ -94,8 +88,6 @@ Creation of a program for automated priority determination of ads on images
 - 🚀 Rapid Learning & Adaptation to Emerging Technologies  
 - 📊 Data-Driven Decision Making & Performance Optimization  
 - 💡 Creative Innovation & Solution Design
-
----
 
 ## 📚 Education
 **ITMO University**  
