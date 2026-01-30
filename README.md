@@ -81,6 +81,13 @@ Creation of a program for automated priority determination of ads on images
 - Prepared dataset  
 [GitHub](https://github.com/D2J3D/Nexign_ITMO) | [Presentation](https://docs.google.com/presentation/d/1VMg16ZAK6VkmTFs9NlRH-jW9gzr_XYbD/edit?usp=sharing&ouid=107205541278082350411&rtpof=true&sd=true)
 
+### 🧮 Калькулятор | May 2025
+Простой консольный калькулятор с поддержкой основных арифметических операций  
+- Реализованы операции сложения, вычитания, умножения и деления  
+- Добавлена проверка деления на ноль  
+- Созданы тесты для всех операций  
+- Добавлена документация по использованию
+
 ## 💬 Soft Skills
 - 🔍 Strategic Problem Solving & Analytical Thinking  
 - 👥 Cross-functional Team Leadership & Collaboration  
