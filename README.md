@@ -1,9 +1,9 @@
-# 👋 Hi, my name is Timur!
+# 👋 Привет, меня зовут Тимур!
 
-**AI/ML Engineer & Full-Stack Developer**  
-Developing intelligent systems and scalable web applications with a focus on computer vision, NLP, and algorithm optimization. Love solving complex problems in a team and turning abstract ideas into working products.
+**Инженер ИИ/ML и Full-Stack разработчик**  
+Разработка интеллектуальных систем и масштабируемых веб-приложений с фокусом на компьютерном зрении, NLP и оптимизации алгоритмов. Люблю решать сложные задачи в команде и превращать абстрактные идеи в работающие продукты.
 
-## 🛠️ Technical Skills
+## 🛠️ Технические навыки
 
 <div align="center">
   
@@ -30,74 +30,74 @@ Developing intelligent systems and scalable web applications with a focus on com
 
 </div>
 
-## 🌟 Projects
+## 🌟 Проекты
 
-### 🎮 GameDevAI (2nd Place) | August 2025
-Development of a program for generating low-poly 3D models from text/image for gaming projects  
-- Implemented FastAPI server for interface-model interaction  
-- Researched TRELLIS architecture and implemented inference pipeline  
-- Developed frontend for user interaction  
-[Demo](https://itmo-prod-mat-001.vercel.app/) | [GitHub](https://github.com/TimurPshITMO/GameDevAI) | [Presentation](https://drive.google.com/file/d/1ids4v2MYFobUz09BhjGU0uLFkP8rR643/view?usp=sharing)
+### 🎮 GameDevAI (2-е место) | Август 2025
+Разработка программы для генерации low-poly 3D моделей по тексту/изображению для игровых проектов  
+- Реализация сервера на FastAPI для взаимодействия интерфейса с моделью  
+- Исследование архитектуры TRELLIS и реализация пайплайна инференса  
+- Разработка фронтенда для взаимодействия с пользователем  
+[Демо](https://itmo-prod-mat-001.vercel.app/) | [GitHub](https://github.com/TimurPshITMO/GameDevAI) | [Презентация](https://drive.google.com/file/d/1ids4v2MYFobUz09BhjGU0uLFkP8rR643/view?usp=sharing)
 
-### 🤖 VNEDREYD | July 2025
-Telegram bot for automatic spam filtering in channels  
-- Organized work using Scrum methodology, distributed tasks within the team  
-- Improved architecture to comply with SOLID principles  
-- Developed and maintained AI-based microservices (AI vs human classification, spam classification using Naive Bayes model, swearing detection using SwearingCheck)  
-- Updated models within microservices, retraining and adding new ones  
-[GitHub](https://github.com/codejerks/gornichnaya) | [Presentation](https://drive.google.com/file/d/1ixpVV3JuGwbsfLC9YuMPY6mc5yDgNBR0/view?usp=sharing)
+### 🤖 VNEDREYD | Июль 2025
+Telegram-бот для автоматической фильтрации спама в каналах  
+- Организация работы по методологии Scrum, распределение задач внутри команды  
+- Улучшение архитектуры в соответствии с принципами SOLID  
+- Разработка и поддержка микросервисов на базе ИИ (классификация ИИ/человек, классификация спама с использованием модели Наивного Байеса, детекция нецензурной лексики с использованием SwearingCheck)  
+- Обновление моделей внутри микросервисов, дообучение и добавление новых  
+[GitHub](https://github.com/codejerks/gornichnaya) | [Презентация](https://drive.google.com/file/d/1ixpVV3JuGwbsfLC9YuMPY6mc5yDgNBR0/view?usp=sharing)
 
-### 🚀 Yandex x MIPT Summer Camp | April 2025
-Research on applying hypergraph features to improve machine learning model predictions  
-- Led the team, distributed roles and tasks  
-- Optimized xgi library by parallelizing processes for faster hypergraph feature calculation  
-- Tested hypothesis on a ready dataset  
-[Presentation](https://docs.google.com/presentation/d/1VeDI4MYU3lB9yDJKq-1DJeuH311atbd0tZhVaF75LXo/edit?usp=sharing)
+### 🚀 Летняя школа Яндекс x МФТИ | Апрель 2025
+Исследование применения гиперграфов для улучшения предсказаний моделей машинного обучения  
+- Руководство командой, распределение ролей и задач  
+- Оптимизация библиотеки xgi путём параллелизации процессов для ускорения вычисления признаков гиперграфов  
+- Проверка гипотезы на готовом датасете  
+[Презентация](https://docs.google.com/presentation/d/1VeDI4MYU3lB9yDJKq-1DJeuH311atbd0tZhVaF75LXo/edit?usp=sharing)
 
-### 📊 AI Learning Lab 2025 | February 2025
-Training ML model for predicting ad campaign reach  
-- Implemented FastAPI server  
-- Prepared data  
-- Trained model  
-[GitHub](https://github.com/TimurPshITMO/VK_LL_2025) | [Presentation](https://drive.google.com/file/d/1-5LX0xfD1PqoVLyT9_zt0m-Y773wwwgd/view?usp=sharing)
+### 📊 AI Learning Lab 2025 | Февраль 2025
+Обучение модели машинного обучения для предсказания охвата рекламной кампании  
+- Реализация сервера на FastAPI  
+- Подготовка данных  
+- Обучение модели  
+[GitHub](https://github.com/TimurPshITMO/VK_LL_2025) | [Презентация](https://drive.google.com/file/d/1-5LX0xfD1PqoVLyT9_zt0m-Y773wwwgd/view?usp=sharing)
 
-### 🎨 VK FreshCode | October-December 2024
-Creation of an entertainment mini-app  
-- Led development process  
-- Improved server-side by implementing synchronization methods for parallel request processing  
-- Developed visual design and assets  
-- Frontend development  
-[App](https://vk.com/app52425434) | [Presentation](https://drive.google.com/file/d/1B5DQ33hWGAI4zovzPgO-Emo7nhIRh3D4/view?usp=sharing)
+### 🎨 VK FreshCode | Октябрь-Декабрь 2024
+Создание развлекательного мини-приложения  
+- Руководство процессом разработки  
+- Улучшение серверной части путём реализации методов синхронизации для обработки параллельных запросов  
+- Разработка визуального дизайна и ассетов  
+- Разработка фронтенда  
+[Приложение](https://vk.com/app52425434) | [Презентация](https://drive.google.com/file/d/1B5DQ33hWGAI4zovzPgO-Emo7nhIRh3D4/view?usp=sharing)
 
-### 🤖 Yandex x Ural Federal University Summer Camp (2nd Place) | October 2024
-Development of a robot navigating a maze and performing tasks (picking up cubes, pressing buttons, etc.)  
-- Implemented maze navigation algorithm based on ultrasonic/infrared sensor data  
-- Developed robot alignment algorithm along straight lines using computer vision methods  
-[GitHub](https://github.com/Thegarton/StudCamp_2024) | [Presentation](https://docs.google.com/presentation/d/1Mgc_4xd_7HssNf75ZmJBBhps6Cr0HzF2/edit?usp=sharing&ouid=107205541278082350411&rtpof=true&sd=true)
+### 🤖 Летняя школа Яндекс x УрФУ (2-е место) | Октябрь 2024
+Разработка робота, перемещающегося по лабиринту и выполняющего задачи (поднятие кубов, нажатие кнопок и т.д.)  
+- Реализация алгоритма навигации по лабиринту на основе данных ультразвуковых/инфракрасных датчиков  
+- Разработка алгоритма выравнивания робота по прямым линиям с использованием методов компьютерного зрения  
+[GitHub](https://github.com/Thegarton/StudCamp_2024) | [Презентация](https://docs.google.com/presentation/d/1Mgc_4xd_7HssNf75ZmJBBhps6Cr0HzF2/edit?usp=sharing&ouid=107205541278082350411&rtpof=true&sd=true)
 
-### 📈 AI Learning Lab 2024 | May 2024
-Creation of a program for automated priority determination of ads on images  
-- Implemented FastAPI server  
-- Prepared dataset  
-[GitHub](https://github.com/D2J3D/Nexign_ITMO) | [Presentation](https://docs.google.com/presentation/d/1VMg16ZAK6VkmTFs9NlRH-jW9gzr_XYbD/edit?usp=sharing&ouid=107205541278082350411&rtpof=true&sd=true)
+### 📈 AI Learning Lab 2024 | Май 2024
+Создание программы для автоматического определения приоритета рекламы на изображениях  
+- Реализация сервера на FastAPI  
+- Подготовка датасета  
+[GitHub](https://github.com/D2J3D/Nexign_ITMO) | [Презентация](https://docs.google.com/presentation/d/1VMg16ZAK6VkmTFs9NlRH-jW9gzr_XYbD/edit?usp=sharing&ouid=107205541278082350411&rtpof=true&sd=true)
 
-## 💬 Soft Skills
-- 🔍 Strategic Problem Solving & Analytical Thinking  
-- 👥 Cross-functional Team Leadership & Collaboration  
-- 📢 Technical Communication for Diverse Stakeholders  
-- 🚀 Rapid Learning & Adaptation to Emerging Technologies  
-- 📊 Data-Driven Decision Making & Performance Optimization  
-- 💡 Creative Innovation & Solution Design
+## 💬 Мягкие навыки
+- 🔍 Стратегическое решение проблем и аналитическое мышление  
+- 👥 Лидерство в кросс-функциональных командах и сотрудничество  
+- 📢 Техническая коммуникация для разных заинтересованных сторон  
+- 🚀 Быстрое обучение и адаптация к новым технологиям  
+- 📊 Принятие решений на основе данных и оптимизация производительности  
+- 💡 Креативность и проектирование решений
 
-## 📚 Education
-**ITMO University**  
-Faculty of Control Systems and Robotics  
-Robotics and Artificial Intelligence  
-Bachelor's degree, 4th year (graduation: 2026)
+## 📚 Образование
+**Университет ИТМО**  
+Факультет систем управления и робототехники  
+Робототехника и искусственный интеллект  
+Бакалавриат, 4 курс (окончание: 2026)
 
 ---
 
-## 📬 Contact Me
+## 📬 Связь со мной
 - ✉️ [timurpshinshev@gmail.com](mailto:timurpshinshev@gmail.com)
 - 💻 [GitHub](https://github.com/TimurPshITMO)
 - 📱 [Telegram](https://t.me/annoying_rusk)
